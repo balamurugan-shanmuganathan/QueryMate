@@ -1,0 +1,8 @@
+pandas
+langchain 
+langchain_google_genai 
+langchain-experimental
+streamlit
+tabulate
+# pandasai
+#pip install --only-binary :all: pandasai
